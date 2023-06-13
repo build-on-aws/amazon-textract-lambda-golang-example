@@ -1,5 +1,7 @@
 ## Build a Serverless Application to Automate Invoice Processing on AWS
 
+* [Build a Serverless Application to Automate Invoice Processing on AWS](https://buildon.aws/tutorials/invoice-processing-textract-lambda-golang)
+
 In this tutorial, you will learn how to build a Serverless solution for invoice processing using [Amazon Textract](https://docs.aws.amazon.com/textract/latest/dg/what-is.html?sc_channel=el&sc_campaign=datamlwave&sc_content=invoice-processing-textract-lambda-golang&sc_geo=mult&sc_country=mult&sc_outcome=acq), [AWS Lambda](https://aws.amazon.com/lambda/?sc_channel=el&sc_campaign=datamlwave&sc_content=invoice-processing-textract-lambda-golang&sc_geo=mult&sc_country=mult&sc_outcome=acq) and the [Go](https://go.dev/) programming language.
 
 Amazon Textract is a machine learning service that automatically extracts text, handwriting, and data from scanned documents. It goes beyond simple optical character recognition (OCR) to identify, understand, and extract data from forms and tables. It helps add document text detection and analysis to applications which help businesses automate their document processing workflows and reduce manual data entry, which can save time, reduce errors, and increase productivity.
